@@ -1,0 +1,9 @@
+.main heading{
+    color:blue;
+    text-align:center;
+
+}
+.paragraph{
+    color:red;
+    font-style: inherit;
+}
